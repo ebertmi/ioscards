@@ -1,0 +1,30 @@
+{
+  "name": "ioscards",
+  "version": "0.0.1",
+  "description": "iOS 11 store like cards in css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ebertmi/ioscards.git"
+  },
+  "keywords": [
+    "ios11",
+    "cards",
+    "bootstrap"
+  ],
+  "author": "Michael Ebert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ebertmi/ioscards/issues"
+  },
+  "homepage": "https://github.com/ebertmi/ioscards#readme",
+  "dependencies": {
+    "bootstrap": "github:twbs/bootstrap#v4.0.0-beta.2"
+  },
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
